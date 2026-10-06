@@ -4,7 +4,7 @@
 
 I lead the delivery of enterprise AI, document processing, and workflow automation solutions, and I build the agents and apps myself. I have 15+ years of experience turning messy business processes in commercial, healthcare, and state and local government organizations into automation that people actually use. My focus right now is generative AI agents, Microsoft 365 Copilot and Copilot Studio, and multi-provider LLM applications with human review built in.
 
-📍 Rhode Island · 🌐 [tekhero.us](https://tekhero.us) · 💼 [LinkedIn](https://www.linkedin.com/in/korey-heron)
+📍 Rhode Island · 💼 [LinkedIn](https://www.linkedin.com/in/korey-heron)
 
 ---
 
@@ -83,4 +83,4 @@ I lead the delivery of enterprise AI, document processing, and workflow automati
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/korey-heron) · [tekhero.us](https://tekhero.us) · [TekMarketing](https://github.com/kheron/TekMarketing)
+[LinkedIn](https://www.linkedin.com/in/korey-heron) · [TekMarketing](https://github.com/kheron/TekMarketing)
