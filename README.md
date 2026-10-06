@@ -27,7 +27,6 @@ I lead the delivery of enterprise AI, document processing, and workflow automati
 | **AI-enabled AP automation** *(enterprise, not public)* | Invoice extraction, approval routing, and line-item and three-way matching with ERP integration. It reduced manual data entry by up to 95%. |
 | **Project-management agents** *(enterprise, not public)* | Copilot agents for status reporting and customer communications that saved 30% of the time spent on that work. |
 | **Customer project portal** *(prototype, not public)* | A customer-facing portal built with Next.js and Grok Build that shows milestones, status, and next steps in a visual progress tracker. |
-| [**verda-comfy**](https://github.com/tekhero-production/verda-comfy) | A reproducible GPU image (ComfyUI, CUDA 12.8) with startup, backup, and restore scripts for on-demand generative image workloads. No secrets are baked in. |
 
 <!-- Add these once the showcase repos are live:
 | [**invoice-ai-extractor**](https://github.com/kheron/invoice-ai-extractor) | LLM invoice extraction to validated JSON, with confidence scores, a review queue, and three-way-match checks. |
